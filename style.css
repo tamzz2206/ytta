@@ -1,0 +1,71 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+}
+
+.container {
+    position: relative;
+    top: 200px;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+}
+
+.tanya:hover {
+    background-color: #999;
+    transition: .2s ease-in-out;
+}
+
+.tanya {
+    color: black;
+    background-color: white;
+    border-radius: 150px;
+    height: 50px;
+    width: 600px;
+    box-shadow: 9px 13px 30px -1px rgba(5, 5, 5, 0.65);
+    -webkit-box-shadow: 9px 13px 30px -1px rgba(5, 5, 5, 0.65);
+    -moz-box-shadow: 9px 13px 30px -1px rgba(5, 5, 5, 0.65);
+
+}
+
+.jawab1:hover {
+    background-color: #999;
+    transition: .2s ease-in-out;
+}
+
+.jawab1 {
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+    height: 50px;
+    width: 600px;
+    box-shadow: 9px 13px 30px -1px rgba(5, 5, 5, 0.65);
+    -webkit-box-shadow: 9px 13px 30px -1px rgba(5, 5, 5, 0.65);
+    -moz-box-shadow: 9px 13px 30px -1px rgba(5, 5, 5, 0.65);
+
+}
+
+.jawab2:hover {
+    background-color: #999;
+    transition: .2s ease-in-out;
+}
+
+.jawab2 {
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+    height: 50px;
+    width: 600px;
+    box-shadow: 9px 13px 30px -1px rgba(5, 5, 5, 0.65);
+    -webkit-box-shadow: 9px 13px 30px -1px rgba(5, 5, 5, 0.65);
+    -moz-box-shadow: 9px 13px 30px -1px rgba(5, 5, 5, 0.65);
+
+}
+
+.tulisan.denger {
+    color: red;
+}
